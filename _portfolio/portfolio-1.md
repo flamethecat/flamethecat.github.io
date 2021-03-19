@@ -1,6 +1,6 @@
 ---
 title: "Github html file"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "An example of linking to an html document<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
